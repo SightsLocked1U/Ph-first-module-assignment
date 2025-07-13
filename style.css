@@ -81,3 +81,36 @@ font-weight: bold;
   margin-top: 60px;
 }
 /* section two ends here i guess */
+/* section three starts from here ,its "joined thousand of productive users */
+.sec-three{
+  background-color: #c5c4e6;
+  padding: 50px 145px;
+  border-radius: 30px;
+  margin: 120px 150px;
+}
+.secthree-title{
+  font-size: 38px;
+  font-weight: bold;
+  text-align: center;
+}
+.secthree-list ul li{
+font-size: 90px;
+color: #5c57df;
+font-weight: bold;
+list-style: none;
+margin-left: 100px;
+/* display:inline-block; */
+
+}
+.secthree-block{
+display: flex;
+gap: 158px;
+align-items: center;
+}
+
+.secthree-subtitle{
+  font-size: 20px;
+  color: #000000;
+  font-weight: 300;
+  
+}
