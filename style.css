@@ -16,7 +16,7 @@
     font-size: 34px;
     font-weight: 800;
 }
-/* sign up button+ all button style, they all seem same */
+/* sign up button+ all button style, they all seem same and added hover style*/
 .btn-style:hover{
   color: rgb(128, 128, 192);
   cursor: pointer;
