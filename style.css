@@ -1,0 +1,54 @@
+/* font style */
+.inter-font-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.raleway-font-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+/* blue logo in header */
+.logo{
+    color: #4E47FF;
+    font-size: 34px;
+    font-weight: 800;
+}
+/* sign up button+ all button style, they all seem same */
+.btn-style{
+    background-color: #4E47FF;
+    font-weight: bold;
+    color: white;
+    font-size: 16px;
+    padding: 12px 36px;
+    border-radius: 5px;
+    border-style: none;
+}
+/* to put logo and signup button is same line */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px;
+}
+/* hero banner */
+header{
+  background-image: url('Assets/Hero-bg.png');
+  padding-bottom: 165px;
+}
+/* banner text */
+.banner-text{
+  font-size: 65px;
+  font-weight: bold;
+  margin-top: 158px;
+  text-align: center;
+}
+/* to put the button stay focused button of banner in center */
+.center-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
