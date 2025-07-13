@@ -17,16 +17,20 @@
     font-weight: 800;
 }
 /* sign up button+ all button style, they all seem same */
+.btn-style:hover{
+  color: rgb(128, 128, 192);
+  cursor: pointer;
+}
 .btn-style{
     background-color: #4E47FF;
     font-weight: bold;
     color: white;
     font-size: 16px;
     padding: 12px 36px;
-    border-radius: 5px;
+    border-radius: 10px;
     border-style: none;
 }
-/* to put logo and signup button is same line */
+/* to put logo and signup button in same line */
 nav{
     display: flex;
     align-items: center;
