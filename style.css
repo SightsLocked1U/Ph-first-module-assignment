@@ -56,3 +56,28 @@ header{
   align-items: center;
   
 }
+/* section two contains "see it in action - title, subtitle,image */
+.sec-two{
+  display: flex;
+  justify-content: space-evenly;
+  margin:120px 150px;
+  
+}
+.sectwo-img{
+  border-radius: 30px;
+ 
+}
+.sectwo-title{
+font-size: 42px;
+font-weight: bold;
+ margin-bottom: 20px;
+}
+.sectwo-subtitle{
+  font-size: 24px;
+  font-weight: 100;
+   margin-bottom: 20px;
+}
+.sectwo-wholetext{
+  margin-top: 60px;
+}
+/* section two ends here i guess */
