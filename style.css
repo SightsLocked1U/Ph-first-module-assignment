@@ -147,3 +147,26 @@ align-items: center;
   width: 60px;
   border-radius: 30px;
 }
+/* section five contains that big card with big image */
+.sec-five {
+background-color: rgb(235, 231, 227);
+padding: 150px 71px;
+margin: 100px 150px 90px;
+text-align: center;
+border-radius: 15px;
+}
+.secfive-title{
+   font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.secfive-subtitle{
+font-size: 20px;
+color: #000000bd;
+padding-bottom: 20px;
+}
+.secfive-img img{
+padding: 20px 20px;
+border-radius: 40px;
+}
