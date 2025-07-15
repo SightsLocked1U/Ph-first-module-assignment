@@ -10,6 +10,9 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+body{
+  background-color: aliceblue;
+}
 /* blue logo in header */
 .logo{
     color: #4E47FF;
@@ -169,4 +172,38 @@ padding-bottom: 20px;
 .secfive-img img{
 padding: 20px 20px;
 border-radius: 40px;
+}
+/* section six starts from here "lets get in touch */
+.sec-six{
+  display: flex;
+  gap: 115px;
+  justify-content: center;
+}
+.ss-title{
+  padding: 200px 0px;
+  font-size: 60px;
+  font-weight: bold;
+  /* gap:30px */
+  
+}
+.form-six input{
+display: block;
+height: 70px;
+width: 497px;
+border-radius: 10px;
+border: rgba(0, 0, 0, 0.521);
+
+}
+.form-six, textarea {
+ 
+  height: 130px;
+width: 497px;
+border-color: none;
+  border-radius: 10px;
+}
+.submit-btn{
+ 
+  margin-top: 20px;
+  width: 497px;
+  height: 70px;
 }
