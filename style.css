@@ -86,22 +86,24 @@ font-weight: bold;
   background-color: #c5c4e6;
   padding: 50px 145px;
   border-radius: 30px;
-  margin: 120px 150px;
+  margin: 120px 250px;
 }
+/* its design joined thousand of productive uswer */
 .secthree-title{
   font-size: 38px;
   font-weight: bold;
   text-align: center;
 }
+/* designed 50+ 2m+ 95% text */
 .secthree-list ul li{
 font-size: 90px;
 color: #5c57df;
 font-weight: bold;
 list-style: none;
-margin-left: 100px;
-/* display:inline-block; */
+margin-left: 30px;
 
 }
+/* merging those list */
 .secthree-block{
 display: flex;
 gap: 158px;
@@ -111,6 +113,37 @@ align-items: center;
 .secthree-subtitle{
   font-size: 20px;
   color: #000000;
-  font-weight: 300;
+  font-weight: 400;
   
+}
+/* section 4 starts from  here "what our user says */
+
+.sec-four{
+  display: flex;
+  justify-content: center;
+  font-size:40px;
+  font-weight: 700px;
+}
+
+.card-container{
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+.card{
+     background-color: rgb(216, 193, 231);
+     height: 243px;
+  width: 250px;
+  padding: 30px;
+  border-radius: 20px;
+  }
+.review{
+  display: flex;
+  gap: 20px;
+  padding-top: 40px;
+}
+.review img{
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
 }
